@@ -31,5 +31,6 @@
   "web_accessible_resources": 
   [
     "inject.js"
-  ]
+  ],
+  "homepage_url": "https://github.com/winkay/auto-learning"
 }
